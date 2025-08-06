@@ -1,4 +1,4 @@
-# Car-Dashboard-PowerBI-
+# Car-Dashboard-PowerBI
 🚗 Car Sales Analytics Dashboard – Power BI Project 📊
 Transforming raw dealership data into actionable business insights!
 
